@@ -60,7 +60,6 @@ body {
 }
 .chat-window .chat-header {
   height: 45px;
-  border-radius: 6px;
   background: #263238;
   position: relative;
 
@@ -142,7 +141,7 @@ body {
 }
 
 .message-meta #author {
-  margin-left: 10px;
+  margin-left: 5px;
   font-weight: bold;
 }
 
